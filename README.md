@@ -10,15 +10,15 @@ Backend Developer
 - [Pocket Study](https://github.com/kimdasomxkimdasom/pocket-study)  
   Node.js, Express, TypeScript 기반 개인 학습 웹앱
 
-- [Pin Point, Hamburger](https://github.com/team-aend)  
+- [Pin Point, Hamburger](https://github.com/orgs/team-aend/repositories)  
   친구들과 진행하는 팀 프로젝트
 
 ## Tech Stack
-Java, Spring Boot, MyBatis  
-Node.js, NestJS, Express, TypeScript  
-MySQL, MariaDB, PostgreSQL, Redis  
-Next.js, React  
-Docker
+- Java, Spring Boot, MyBatis
+- Node.js, NestJS, Express, TypeScript  
+- MySQL, MariaDB, PostgreSQL, Redis  
+- Next.js, React, JSP
+- AWS, Docker
 
 ## Contact
 *   **Email:** kimxdaxsom@gmail.com
