@@ -5,7 +5,7 @@ Backend Developer
 ## Projects
 
 - [Dangdang (땅땅)](https://github.com/kimdasomxkimdasom/dangdang) `ing`
-  Spring Data JPA, QueryDSL 기반 중고 경매 플랫폼 (N+1 해결, 동시 입찰 제어)
+  Spring Data JPA, QueryDSL 기반 중고 경매 플랫폼
 
 - [Discord Museum Bot](https://github.com/kimdasomxkimdasom/discord-museum-bot)
   Discord.js, Redmine API, Claude CLI를 활용한 업무 자동화 Bot
