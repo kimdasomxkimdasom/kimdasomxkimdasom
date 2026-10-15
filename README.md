@@ -4,7 +4,7 @@ Backend Developer
 
 ## Projects
 
-- [Dangdang (땅땅)](https://github.com/kimdasomxkimdasom/dangdang) `진행 중`
+- [Dangdang (땅땅)](https://github.com/kimdasomxkimdasom/dangdang) `ing`
   Spring Data JPA, QueryDSL 기반 중고 경매 플랫폼 (N+1 해결, 동시 입찰 제어)
 
 - [Discord Museum Bot](https://github.com/kimdasomxkimdasom/discord-museum-bot)
@@ -13,7 +13,7 @@ Backend Developer
 - [Pocket Study](https://github.com/kimdasomxkimdasom/pocket-study)
   Node.js, Express, TypeScript 기반 개인 학습 웹앱
 
-- [Pin Point, Hamburger](https://github.com/orgs/team-aend/repositories)
+- [Pin Point, Hamburger](https://github.com/orgs/team-aend/repositories) `ing`
   친구들과 진행하는 팀 프로젝트
 
 ## Currently Learning
