@@ -17,13 +17,12 @@ Backend Developer
   친구들과 진행하는 팀 프로젝트
 
 ## Currently Learning
-- Spring Data JPA / Hibernate: 연관관계 매핑, N+1 문제와 fetch join
-- QueryDSL: 동적 쿼리, DTO Projection
-- Testcontainers를 활용한 실제 DB 기반 테스트
+- Spring Data JPA / Hibernate /QueryDSL
 
 ## Tech Stack
 - Java, Spring Boot, Spring Data JPA, MyBatis
-- Node.js, NestJS, Express, TypeScript
+- Node.js, NestJS, Express, TypeScript, Prisma ORM
+- Python, Flask
 - MySQL, MariaDB, PostgreSQL, Redis
 - Next.js, React, JSP
 - AWS, Docker
