@@ -8,7 +8,7 @@ Backend Developer
   친구들과 진행하는 팀 프로젝트
 
 - [TGC (The Grateful Camp)](https://github.com/kimdasomxkimdasom/tgc) `ing`
-  React, TypeScript, Supabase 기반 뮤직 페스티벌 모바일 웹앱 · [Live](https://tgc-1ga.pages.dev)
+  React, TypeScript, Supabase 기반 뮤직 페스티벌 모바일 웹앱
 
 - [Dangdang (땅땅)](https://github.com/kimdasomxkimdasom/dangdang) `ing`
   Spring Data JPA, QueryDSL 기반 중고 경매 플랫폼
